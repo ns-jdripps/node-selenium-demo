@@ -1,0 +1,10 @@
+{
+  "name": "node-selenium-demo",
+  "scripts": {
+    "test": "jasmine test.js"
+  },
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
